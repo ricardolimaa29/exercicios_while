@@ -22,5 +22,15 @@ Crie um programa em Python que simule um sistema simples de **cadastro e login**
 
 ---
 
+# 🔸 Explicação Simples sobre o `or` em Python
+
+## 🟠 O que é o `or`?
+
+O `or` é um **operador lógico** em Python que significa **"ou"**.
+
+Ele é usado para verificar se **pelo menos uma** das condições é verdadeira.
+
+---
+
 ## 🎯 Resultado Esperado
 
